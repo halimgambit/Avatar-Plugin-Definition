@@ -1,0 +1,10 @@
+{
+	"modules": { 
+		"Definition": {
+			"version": "1.0",
+			"name": "définition",
+			"rules": ["define * word","definition * word","definition * verb","define * verb"]
+		}
+	}
+}
+			
